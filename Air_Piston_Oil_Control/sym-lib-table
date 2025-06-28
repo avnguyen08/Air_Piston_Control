@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Air_Piston_Oil_Control-altium-import")(type "KiCad")(uri "${KIPRJMOD}/Air_Piston_Oil_Control-altium-import.kicad_sym")(options "")(descr ""))
+  (lib (name "Project_Lib")(type "KiCad")(uri "${KIPRJMOD}/Project_Lib.kicad_sym")(options "")(descr ""))
+)
