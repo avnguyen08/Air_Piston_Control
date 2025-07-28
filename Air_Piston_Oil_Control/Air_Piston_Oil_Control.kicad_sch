@@ -6,8 +6,8 @@
 	(paper "B")
 	(title_block
 		(title "U Control")
-		(date "2025-06-14")
-		(rev "A")
+		(date "2025-07-23")
+		(rev "B")
 		(company "Secured Solutions Group")
 	)
 	(lib_symbols
@@ -2524,192 +2524,6 @@
 				)
 				(pin passive line
 					(at 5.08 0 180)
-					(length 2.54)
-					(name "B"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "Jumper:SolderJumper_2_Open"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 0)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom no)
-			(on_board yes)
-			(property "Reference" "JP"
-				(at 0 2.032 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "SolderJumper_2_Open"
-				(at 0 -2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Solder Jumper, 2-pole, open"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "solder jumper SPST"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "SolderJumper*Open*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "SolderJumper_2_Open_0_1"
-				(polyline
-					(pts
-						(xy -0.254 1.016) (xy -0.254 -1.016)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start -0.254 -1.016)
-					(mid -1.2656 0)
-					(end -0.254 1.016)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start -0.254 -1.016)
-					(mid -1.2656 0)
-					(end -0.254 1.016)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(arc
-					(start 0.254 1.016)
-					(mid 1.2656 0)
-					(end 0.254 -1.016)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 0.254 1.016)
-					(mid 1.2656 0)
-					(end 0.254 -1.016)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.254 1.016) (xy 0.254 -1.016)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "SolderJumper_2_Open_1_1"
-				(pin passive line
-					(at -3.81 0 0)
-					(length 2.54)
-					(name "A"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 3.81 0 180)
 					(length 2.54)
 					(name "B"
 						(effects
@@ -6536,7 +6350,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 67.31) (xy 127 67.31)
+			(xy 127 67.31) (xy 189.23 67.31)
 		)
 		(stroke
 			(width 0)
@@ -6646,16 +6460,6 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 67.31) (xy 139.7 67.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "154de61e-b343-4680-9b44-d6d35b8f4549")
-	)
-	(wire
-		(pts
 			(xy 184.15 59.69) (xy 189.23 59.69)
 		)
 		(stroke
@@ -6696,33 +6500,13 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 54.61) (xy 227.33 54.61)
+			(xy 224.79 54.61) (xy 238.76 54.61)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "21446041-0057-4268-acc6-59977b5b8149")
-	)
-	(wire
-		(pts
-			(xy 189.23 64.77) (xy 139.7 64.77)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2158dac4-2535-4e9b-a994-f420000a553a")
-	)
-	(wire
-		(pts
-			(xy 234.95 62.23) (xy 238.76 62.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "21d61c8b-102e-41d8-a019-6d65348d4063")
 	)
 	(wire
 		(pts
@@ -6736,7 +6520,7 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 85.09) (xy 173.99 85.09)
+			(xy 170.18 85.09) (xy 189.23 85.09)
 		)
 		(stroke
 			(width 0)
@@ -6846,7 +6630,7 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 82.55) (xy 173.99 82.55)
+			(xy 170.18 82.55) (xy 189.23 82.55)
 		)
 		(stroke
 			(width 0)
@@ -6886,7 +6670,7 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 90.17) (xy 173.99 90.17)
+			(xy 170.18 90.17) (xy 189.23 90.17)
 		)
 		(stroke
 			(width 0)
@@ -6913,16 +6697,6 @@
 			(type default)
 		)
 		(uuid "38200c81-79c1-4ee1-9f0f-aa7b8d1df484")
-	)
-	(wire
-		(pts
-			(xy 181.61 80.01) (xy 189.23 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "38dd8191-3324-4cbe-a4f5-52cfee83a1df")
 	)
 	(wire
 		(pts
@@ -7056,7 +6830,7 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 62.23) (xy 227.33 62.23)
+			(xy 224.79 62.23) (xy 238.76 62.23)
 		)
 		(stroke
 			(width 0)
@@ -7176,7 +6950,7 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 59.69) (xy 227.33 59.69)
+			(xy 224.79 59.69) (xy 238.76 59.69)
 		)
 		(stroke
 			(width 0)
@@ -7193,16 +6967,6 @@
 			(type default)
 		)
 		(uuid "6650020d-f711-45d0-b53e-cd76d9c46f19")
-	)
-	(wire
-		(pts
-			(xy 234.95 57.15) (xy 238.76 57.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "669531fa-d8bd-410c-8d11-bec340f71f13")
 	)
 	(wire
 		(pts
@@ -7266,7 +7030,7 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 77.47) (xy 173.99 77.47)
+			(xy 170.18 77.47) (xy 189.23 77.47)
 		)
 		(stroke
 			(width 0)
@@ -7396,23 +7160,13 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 64.77) (xy 227.33 64.77)
+			(xy 224.79 64.77) (xy 238.76 64.77)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "886c3811-a9a4-427b-ad6e-a4a421452d42")
-	)
-	(wire
-		(pts
-			(xy 181.61 87.63) (xy 189.23 87.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "89dd9b3c-d55b-48c1-9104-29e3a74ffc12")
 	)
 	(wire
 		(pts
@@ -7476,16 +7230,6 @@
 	)
 	(wire
 		(pts
-			(xy 181.61 77.47) (xy 189.23 77.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "94dfb0ff-17d5-4ecf-81a3-c5aaf9f05d5f")
-	)
-	(wire
-		(pts
 			(xy 90.17 190.5) (xy 104.14 190.5)
 		)
 		(stroke
@@ -7496,7 +7240,7 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 67.31) (xy 227.33 67.31)
+			(xy 224.79 67.31) (xy 238.76 67.31)
 		)
 		(stroke
 			(width 0)
@@ -7516,7 +7260,7 @@
 	)
 	(wire
 		(pts
-			(xy 102.87 64.77) (xy 132.08 64.77)
+			(xy 102.87 64.77) (xy 189.23 64.77)
 		)
 		(stroke
 			(width 0)
@@ -7586,16 +7330,6 @@
 	)
 	(wire
 		(pts
-			(xy 234.95 59.69) (xy 238.76 59.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "aa5fced0-eb07-46ff-8d4e-4de50980ad32")
-	)
-	(wire
-		(pts
 			(xy 207.01 46.99) (xy 209.55 46.99)
 		)
 		(stroke
@@ -7636,16 +7370,6 @@
 	)
 	(wire
 		(pts
-			(xy 181.61 85.09) (xy 189.23 85.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b0dc4f17-9e54-48d0-8317-06e336d00f1e")
-	)
-	(wire
-		(pts
 			(xy 180.34 186.69) (xy 184.15 186.69)
 		)
 		(stroke
@@ -7676,23 +7400,13 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 87.63) (xy 173.99 87.63)
+			(xy 170.18 87.63) (xy 189.23 87.63)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "b4da7e1c-02b0-44ca-9103-3abe26352900")
-	)
-	(wire
-		(pts
-			(xy 234.95 54.61) (xy 238.76 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b5c341d1-171f-42c5-a84f-51bc08e6a61b")
 	)
 	(wire
 		(pts
@@ -7733,16 +7447,6 @@
 			(type default)
 		)
 		(uuid "bd35271a-2a4b-4666-8f11-9701ad86ac9e")
-	)
-	(wire
-		(pts
-			(xy 234.95 64.77) (xy 238.76 64.77)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bfe4811f-c7a4-4212-892b-dffe0d50d5aa")
 	)
 	(wire
 		(pts
@@ -7836,26 +7540,6 @@
 	)
 	(wire
 		(pts
-			(xy 234.95 67.31) (xy 238.76 67.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d1ae3c80-0703-47a9-97f0-2896c6def175")
-	)
-	(wire
-		(pts
-			(xy 181.61 90.17) (xy 189.23 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d2bae5a0-b541-4a9f-8a90-2149538d6127")
-	)
-	(wire
-		(pts
 			(xy 226.06 219.71) (xy 226.06 238.76)
 		)
 		(stroke
@@ -7916,7 +7600,7 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 57.15) (xy 227.33 57.15)
+			(xy 224.79 57.15) (xy 238.76 57.15)
 		)
 		(stroke
 			(width 0)
@@ -7956,7 +7640,7 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 69.85) (xy 227.33 69.85)
+			(xy 224.79 69.85) (xy 238.76 69.85)
 		)
 		(stroke
 			(width 0)
@@ -7973,16 +7657,6 @@
 			(type default)
 		)
 		(uuid "de2ff676-134a-4863-836d-3a2203802d3c")
-	)
-	(wire
-		(pts
-			(xy 181.61 82.55) (xy 189.23 82.55)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dfdf24b5-b839-41e6-b6e7-fc7a39265c9f")
 	)
 	(wire
 		(pts
@@ -8016,16 +7690,6 @@
 	)
 	(wire
 		(pts
-			(xy 234.95 69.85) (xy 238.76 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "eb565b37-a1e6-4325-9bb2-c40ee98f3329")
-	)
-	(wire
-		(pts
 			(xy 394.97 92.71) (xy 394.97 93.98)
 		)
 		(stroke
@@ -8046,7 +7710,7 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 80.01) (xy 173.99 80.01)
+			(xy 170.18 80.01) (xy 189.23 80.01)
 		)
 		(stroke
 			(width 0)
@@ -10296,74 +9960,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Jumper:SolderJumper_2_Open")
-		(at 231.14 57.15 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "13c42d07-7240-4952-be42-3397636185b1")
-		(property "Reference" "JP10"
-			(at 235.458 56.134 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SolderJumper_2_Open"
-			(at 231.14 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm"
-			(at 231.14 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 231.14 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Solder Jumper, 2-pole, open"
-			(at 231.14 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "f9e7d927-73bf-4cdc-ab78-b2a214b133d8")
-		)
-		(pin "1"
-			(uuid "7303f4ac-c844-4861-be96-4656562838e6")
-		)
-		(instances
-			(project "Air_Piston_Oil_Control"
-				(path "/0dbd51ba-c2f6-42ad-9cf7-dbc6d70157e3"
-					(reference "JP10")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 401.32 66.04 0)
 		(unit 1)
@@ -10382,7 +9978,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "100nF"
 			(at 405.13 67.3099 0)
 			(effects
 				(font
@@ -11078,7 +10674,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "1uF"
 			(at 335.28 67.3099 0)
 			(effects
 				(font
@@ -11214,7 +10810,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4.7u"
+		(property "Value" "4.7uF"
 			(at 355.6 67.3099 0)
 			(effects
 				(font
@@ -11260,74 +10856,6 @@
 			(project "Air_Piston_Oil_Control"
 				(path "/0dbd51ba-c2f6-42ad-9cf7-dbc6d70157e3"
 					(reference "C11")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Jumper:SolderJumper_2_Open")
-		(at 231.14 62.23 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "35b77396-156d-4255-a98d-b71371400e82")
-		(property "Reference" "JP12"
-			(at 235.458 61.214 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SolderJumper_2_Open"
-			(at 231.14 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm"
-			(at 231.14 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 231.14 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Solder Jumper, 2-pole, open"
-			(at 231.14 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "6041565c-87a4-4a77-a35b-3dd47eb1e95b")
-		)
-		(pin "1"
-			(uuid "993a5018-f756-4d6b-8fdf-9278802f94d2")
-		)
-		(instances
-			(project "Air_Piston_Oil_Control"
-				(path "/0dbd51ba-c2f6-42ad-9cf7-dbc6d70157e3"
-					(reference "JP12")
 					(unit 1)
 				)
 			)
@@ -11748,7 +11276,7 @@
 				)
 			)
 		)
-		(property "Value" "1K"
+		(property "Value" "1k"
 			(at 50.038 184.15 90)
 			(effects
 				(font
@@ -11859,74 +11387,6 @@
 			(project "Air_Piston_Oil_Control"
 				(path "/0dbd51ba-c2f6-42ad-9cf7-dbc6d70157e3"
 					(reference "#PWR017")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Jumper:SolderJumper_2_Open")
-		(at 135.89 67.31 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "46f83aa1-bdb5-4d33-8913-198df20a5d80")
-		(property "Reference" "JP2"
-			(at 134.874 70.104 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SolderJumper_2_Open"
-			(at 135.89 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm"
-			(at 135.89 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 135.89 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Solder Jumper, 2-pole, open"
-			(at 135.89 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "97238745-2735-471c-9194-3ab9ab8177ab")
-		)
-		(pin "1"
-			(uuid "80ad6ee5-d554-4537-a824-6c2fdfdf00a2")
-		)
-		(instances
-			(project "Air_Piston_Oil_Control"
-				(path "/0dbd51ba-c2f6-42ad-9cf7-dbc6d70157e3"
-					(reference "JP2")
 					(unit 1)
 				)
 			)
@@ -12211,210 +11671,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Jumper:SolderJumper_2_Open")
-		(at 231.14 69.85 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "5355ec96-b453-44b1-8dc7-32301bb2fc8e")
-		(property "Reference" "JP15"
-			(at 235.458 68.834 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SolderJumper_2_Open"
-			(at 231.14 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm"
-			(at 231.14 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 231.14 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Solder Jumper, 2-pole, open"
-			(at 231.14 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "5e0249e1-0c5b-4e53-84f7-fa48af65f765")
-		)
-		(pin "1"
-			(uuid "8837eee1-1686-40d2-a808-1b5ce5ebff28")
-		)
-		(instances
-			(project "Air_Piston_Oil_Control"
-				(path "/0dbd51ba-c2f6-42ad-9cf7-dbc6d70157e3"
-					(reference "JP15")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Jumper:SolderJumper_2_Open")
-		(at 177.8 85.09 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "53aa38f7-7a24-4ba4-9880-7a786ecc1eeb")
-		(property "Reference" "JP6"
-			(at 180.848 84.074 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SolderJumper_2_Open"
-			(at 177.8 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm"
-			(at 177.8 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 177.8 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Solder Jumper, 2-pole, open"
-			(at 177.8 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "39f33845-8a44-4b67-b305-99eff2141697")
-		)
-		(pin "1"
-			(uuid "b3f378af-04cb-48c7-b99e-906f27faa251")
-		)
-		(instances
-			(project "Air_Piston_Oil_Control"
-				(path "/0dbd51ba-c2f6-42ad-9cf7-dbc6d70157e3"
-					(reference "JP6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Jumper:SolderJumper_2_Open")
-		(at 177.8 82.55 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "55749adb-0c97-4261-89ed-a7f65c38282d")
-		(property "Reference" "JP5"
-			(at 180.848 81.534 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SolderJumper_2_Open"
-			(at 177.8 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm"
-			(at 177.8 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 177.8 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Solder Jumper, 2-pole, open"
-			(at 177.8 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "1b26f181-12f0-4ae3-819e-c14ae7276956")
-		)
-		(pin "1"
-			(uuid "cd5b5368-c173-4e1a-97cf-9ca53cffa9c6")
-		)
-		(instances
-			(project "Air_Piston_Oil_Control"
-				(path "/0dbd51ba-c2f6-42ad-9cf7-dbc6d70157e3"
-					(reference "JP5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:PWR_FLAG")
 		(at 95.25 240.03 180)
 		(unit 1)
@@ -12497,7 +11753,7 @@
 				)
 			)
 		)
-		(property "Value" "1K"
+		(property "Value" "1k"
 			(at 50.292 189.738 90)
 			(effects
 				(font
@@ -12542,74 +11798,6 @@
 			(project ""
 				(path "/0dbd51ba-c2f6-42ad-9cf7-dbc6d70157e3"
 					(reference "R2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Jumper:SolderJumper_2_Open")
-		(at 231.14 59.69 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "5f379c2b-f6e8-4d35-a641-ce2343d04894")
-		(property "Reference" "JP11"
-			(at 235.458 58.674 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SolderJumper_2_Open"
-			(at 231.14 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm"
-			(at 231.14 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 231.14 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Solder Jumper, 2-pole, open"
-			(at 231.14 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "d7e384aa-3f3b-4d8c-8f39-b155560a07a7")
-		)
-		(pin "1"
-			(uuid "a5a5f26e-7af5-4204-a20f-3177f9e3b75a")
-		)
-		(instances
-			(project "Air_Piston_Oil_Control"
-				(path "/0dbd51ba-c2f6-42ad-9cf7-dbc6d70157e3"
-					(reference "JP11")
 					(unit 1)
 				)
 			)
@@ -12686,74 +11874,6 @@
 			(project ""
 				(path "/0dbd51ba-c2f6-42ad-9cf7-dbc6d70157e3"
 					(reference "Q1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Jumper:SolderJumper_2_Open")
-		(at 177.8 80.01 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "641b2927-1b08-4cbf-bd78-a1a4e33e0f1a")
-		(property "Reference" "JP4"
-			(at 180.848 78.994 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SolderJumper_2_Open"
-			(at 177.8 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm"
-			(at 177.8 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 177.8 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Solder Jumper, 2-pole, open"
-			(at 177.8 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "1b26f181-12f0-4ae3-819e-c14ae7276956")
-		)
-		(pin "1"
-			(uuid "cd5b5368-c173-4e1a-97cf-9ca53cffa9c6")
-		)
-		(instances
-			(project "Air_Piston_Oil_Control"
-				(path "/0dbd51ba-c2f6-42ad-9cf7-dbc6d70157e3"
-					(reference "JP4")
 					(unit 1)
 				)
 			)
@@ -12928,7 +12048,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "100nF"
 			(at 177.8 57.658 90)
 			(effects
 				(font
@@ -12998,7 +12118,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "100nF"
 			(at 320.04 67.3099 0)
 			(effects
 				(font
@@ -13068,7 +12188,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "100nF"
 			(at 392.43 67.3099 0)
 			(effects
 				(font
@@ -13261,143 +12381,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Jumper:SolderJumper_2_Open")
-		(at 135.89 64.77 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "82956fc2-8523-42c4-a126-da019d972656")
-		(property "Reference" "JP1"
-			(at 135.636 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SolderJumper_2_Open"
-			(at 135.89 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm"
-			(at 135.89 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 135.89 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Solder Jumper, 2-pole, open"
-			(at 135.89 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "70c1bb52-2ea2-4d4d-8988-54771c5a6ff7")
-		)
-		(pin "1"
-			(uuid "cd000a9d-04f5-4421-99cc-ae933de4f7a2")
-		)
-		(instances
-			(project ""
-				(path "/0dbd51ba-c2f6-42ad-9cf7-dbc6d70157e3"
-					(reference "JP1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Jumper:SolderJumper_2_Open")
-		(at 177.8 77.47 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "84781bf1-a896-4521-87c9-b26e1aae26ca")
-		(property "Reference" "JP3"
-			(at 180.848 76.454 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SolderJumper_2_Open"
-			(at 177.8 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm"
-			(at 177.8 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 177.8 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Solder Jumper, 2-pole, open"
-			(at 177.8 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "70b81b6f-1259-4885-b705-7ea57371f6b3")
-		)
-		(pin "1"
-			(uuid "6e978d39-bda5-4076-a786-80331b11a332")
-		)
-		(instances
-			(project "Air_Piston_Oil_Control"
-				(path "/0dbd51ba-c2f6-42ad-9cf7-dbc6d70157e3"
-					(reference "JP3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_US")
 		(at 351.79 96.52 180)
 		(unit 1)
@@ -13414,7 +12397,7 @@
 				)
 			)
 		)
-		(property "Value" "1K"
+		(property "Value" "1k"
 			(at 349.25 93.472 90)
 			(effects
 				(font
@@ -13680,7 +12663,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "6.8p"
+		(property "Value" "6.8pF"
 			(at 95.25 76.2 0)
 			(effects
 				(font
@@ -13813,7 +12796,7 @@
 				)
 			)
 		)
-		(property "Value" "1K"
+		(property "Value" "1k"
 			(at 51.562 201.168 90)
 			(effects
 				(font
@@ -14014,7 +12997,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "1uF"
 			(at 398.78 99.0599 0)
 			(effects
 				(font
@@ -14347,7 +13330,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "100nF"
 			(at 379.73 67.3099 0)
 			(effects
 				(font
@@ -14393,74 +13376,6 @@
 			(project "Air_Piston_Oil_Control"
 				(path "/0dbd51ba-c2f6-42ad-9cf7-dbc6d70157e3"
 					(reference "C9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Jumper:SolderJumper_2_Open")
-		(at 177.8 87.63 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "b63a4415-6e71-41ea-b4ed-f7c84f596dba")
-		(property "Reference" "JP7"
-			(at 180.848 86.614 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SolderJumper_2_Open"
-			(at 177.8 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm"
-			(at 177.8 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 177.8 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Solder Jumper, 2-pole, open"
-			(at 177.8 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "66f180e2-466b-4b11-aa6c-8382d98ef7a1")
-		)
-		(pin "1"
-			(uuid "30576f29-769f-4199-bcd9-9742d0543c84")
-		)
-		(instances
-			(project "Air_Piston_Oil_Control"
-				(path "/0dbd51ba-c2f6-42ad-9cf7-dbc6d70157e3"
-					(reference "JP7")
 					(unit 1)
 				)
 			)
@@ -14741,7 +13656,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "100nF"
 			(at 367.03 67.3099 0)
 			(effects
 				(font
@@ -14853,142 +13768,6 @@
 			(project "Air_Piston_Oil_Control"
 				(path "/0dbd51ba-c2f6-42ad-9cf7-dbc6d70157e3"
 					(reference "#PWR032")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Jumper:SolderJumper_2_Open")
-		(at 177.8 90.17 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "c66b0902-993a-4e90-84e4-c17fa0af1c04")
-		(property "Reference" "JP8"
-			(at 180.848 89.154 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SolderJumper_2_Open"
-			(at 177.8 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm"
-			(at 177.8 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 177.8 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Solder Jumper, 2-pole, open"
-			(at 177.8 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "16245aad-bc62-40ef-adf7-44be6168d7f1")
-		)
-		(pin "1"
-			(uuid "71db0779-d61a-4499-8565-dce23f0ec659")
-		)
-		(instances
-			(project "Air_Piston_Oil_Control"
-				(path "/0dbd51ba-c2f6-42ad-9cf7-dbc6d70157e3"
-					(reference "JP8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Jumper:SolderJumper_2_Open")
-		(at 231.14 67.31 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "ca1eaa2b-6732-4ba1-8246-59a2a68b1f7a")
-		(property "Reference" "JP14"
-			(at 235.458 66.294 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SolderJumper_2_Open"
-			(at 231.14 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm"
-			(at 231.14 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 231.14 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Solder Jumper, 2-pole, open"
-			(at 231.14 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "cefdb409-62ec-4f30-8648-3f1cfc2552c5")
-		)
-		(pin "1"
-			(uuid "7d6da439-f55a-40a9-92e8-a14d9ae409f9")
-		)
-		(instances
-			(project "Air_Piston_Oil_Control"
-				(path "/0dbd51ba-c2f6-42ad-9cf7-dbc6d70157e3"
-					(reference "JP14")
 					(unit 1)
 				)
 			)
@@ -15218,7 +13997,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "6.8p"
+		(property "Value" "6.8pF"
 			(at 119.634 77.47 0)
 			(effects
 				(font
@@ -15476,74 +14255,6 @@
 			(project ""
 				(path "/0dbd51ba-c2f6-42ad-9cf7-dbc6d70157e3"
 					(reference "U5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Jumper:SolderJumper_2_Open")
-		(at 231.14 64.77 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "e7943f77-73d9-441c-85a1-0614857ffc9d")
-		(property "Reference" "JP13"
-			(at 235.458 63.754 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SolderJumper_2_Open"
-			(at 231.14 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm"
-			(at 231.14 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 231.14 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Solder Jumper, 2-pole, open"
-			(at 231.14 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "e162f791-04c4-440e-aee0-d63f8d138b40")
-		)
-		(pin "1"
-			(uuid "016a4015-bebe-4a92-a5d9-eb32631c0200")
-		)
-		(instances
-			(project "Air_Piston_Oil_Control"
-				(path "/0dbd51ba-c2f6-42ad-9cf7-dbc6d70157e3"
-					(reference "JP13")
 					(unit 1)
 				)
 			)
@@ -15971,7 +14682,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "100nF"
 			(at 386.08 99.0599 0)
 			(effects
 				(font
@@ -16292,74 +15003,6 @@
 			(project "Air_Piston_Oil_Control"
 				(path "/0dbd51ba-c2f6-42ad-9cf7-dbc6d70157e3"
 					(reference "#PWR020")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Jumper:SolderJumper_2_Open")
-		(at 231.14 54.61 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "fe56fb72-b7ee-48e2-86d4-b05d6e725644")
-		(property "Reference" "JP9"
-			(at 235.458 53.594 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SolderJumper_2_Open"
-			(at 231.14 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm"
-			(at 231.14 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 231.14 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Solder Jumper, 2-pole, open"
-			(at 231.14 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "88c6671a-db8e-46d2-8967-6e360c8f0695")
-		)
-		(pin "1"
-			(uuid "25c0e425-9d3b-49fe-a90b-69b324f807a9")
-		)
-		(instances
-			(project "Air_Piston_Oil_Control"
-				(path "/0dbd51ba-c2f6-42ad-9cf7-dbc6d70157e3"
-					(reference "JP9")
 					(unit 1)
 				)
 			)
