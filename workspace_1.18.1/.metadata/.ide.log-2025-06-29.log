@@ -1,0 +1,958 @@
+2025-06-30 00:54:23,668 [INFO] WebApp:194 - Connection lost
+2025-06-30 00:54:28,611 [INFO] WebApp:191 - Connection restablished
+2025-06-30 00:54:35,381 [INFO] WebApp:194 - Connection lost
+2025-06-30 00:54:35,508 [INFO] WebApp:191 - Connection restablished
+2025-06-30 01:05:04,177 [INFO] WebApp:194 - Connection lost
+2025-06-30 01:05:04,767 [INFO] WebApp:191 - Connection restablished
+2025-06-30 01:18:40,076 [INFO] WebApp:194 - Connection lost
+2025-06-30 01:18:43,047 [INFO] WebApp:191 - Connection restablished
+2025-06-30 01:23:43,987 [INFO] WebApp:194 - Connection lost
+2025-06-30 01:23:44,524 [INFO] WebApp:191 - Connection restablished
+2025-06-30 01:28:48,109 [INFO] WebApp:194 - Connection lost
+2025-06-30 01:28:48,775 [INFO] WebApp:191 - Connection restablished
+2025-06-30 01:39:08,363 [INFO] WebApp:194 - Connection lost
+2025-06-30 01:39:08,984 [INFO] WebApp:191 - Connection restablished
+2025-06-30 01:45:22,151 [INFO] WebApp:194 - Connection lost
+2025-06-30 01:45:22,707 [INFO] WebApp:191 - Connection restablished
+2025-06-30 01:46:23,218 [INFO] Gpio:277 - dependency for GPIO [ADC1, RCC]
+2025-06-30 01:46:23,262 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:23,262 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:23,263 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:23,263 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:23,263 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:23,264 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:23,264 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:23,264 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:23,264 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:23,265 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:23,265 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:23,265 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:23,265 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:23,266 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:23,266 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:23,266 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:23,267 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:23,267 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:23,268 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:23,268 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:23,268 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:23,294 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:23,330 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:23,330 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:23,331 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:23,331 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:23,331 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:23,331 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:23,332 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:23,332 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:23,332 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:23,332 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:23,332 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:23,333 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:23,333 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:23,333 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:23,333 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:23,334 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:23,334 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:23,334 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:23,335 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:23,335 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:23,335 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:23,355 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,702 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-06-30 01:46:47,753 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,753 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,753 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,753 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,753 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,753 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,754 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,754 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,754 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,754 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,754 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,754 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,754 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,754 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,754 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,754 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,754 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,755 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,755 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,755 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,755 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,768 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,790 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,791 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,791 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,791 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,791 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,791 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,791 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,791 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,791 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,791 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,791 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,791 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,791 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,791 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,791 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,792 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,792 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,792 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,792 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,792 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,792 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,803 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,910 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,910 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,910 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,910 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,910 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,910 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,910 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,910 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,911 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,911 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,911 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,911 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,911 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,911 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,911 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,911 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,911 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,911 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,911 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,911 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,911 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,928 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,950 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,950 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,950 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,950 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,951 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,951 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,951 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,951 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,951 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,952 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,952 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,952 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,952 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,953 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,953 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,953 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,953 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,953 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,953 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,953 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,953 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:46:47,966 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,145 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,145 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,145 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,145 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,145 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,146 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,146 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,146 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,146 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,146 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,146 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,146 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,146 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,146 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,146 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,146 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,146 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,146 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,146 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,147 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,147 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,160 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,184 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,185 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,185 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,185 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,185 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,185 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,185 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,185 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,185 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,185 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,185 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,185 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,186 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,186 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,186 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,186 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,186 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,186 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,186 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,186 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,186 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,197 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,242 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,242 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,242 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,242 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,242 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,242 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,242 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,242 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,242 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,243 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,243 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,243 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,243 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,243 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,243 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,243 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,243 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,243 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,243 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,243 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,243 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,257 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,273 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,273 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,273 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,273 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,273 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,273 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,274 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,274 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,274 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,274 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,274 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,274 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,274 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,274 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,274 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,274 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,274 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,274 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,274 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,274 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,274 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,283 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,442 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,442 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,442 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,442 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,442 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,443 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,443 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,443 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,443 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,443 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,443 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,443 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,443 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,443 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,443 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,443 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,443 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,443 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,443 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,443 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,443 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,452 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,477 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,477 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,477 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,477 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,477 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,477 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,477 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,478 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,478 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,478 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,478 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,478 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,478 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,478 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,478 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,478 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,479 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,479 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,479 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,479 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,479 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:03,494 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,371 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-06-30 01:47:17,412 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,413 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,413 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,413 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,413 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,413 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,413 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,413 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,413 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,413 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,413 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,413 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,413 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,413 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,413 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,413 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,413 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,413 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,414 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,414 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,414 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,425 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,445 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,445 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,446 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,446 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,446 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,446 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,446 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,446 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,446 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,446 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,446 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,446 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,446 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,446 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,446 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,446 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,447 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,447 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,447 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,447 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,447 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,461 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,653 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,653 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,654 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,654 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,654 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,654 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,655 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,655 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,655 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,655 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,656 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,656 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,656 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,656 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,656 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,656 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,656 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,656 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,656 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,656 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,656 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,670 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,695 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,696 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,696 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,696 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,696 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,696 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,696 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,696 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,696 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,696 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,696 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,696 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,697 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,697 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,697 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,697 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,697 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,697 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,697 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,697 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,697 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:17,710 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:44,373 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:44,373 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:44,373 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:44,373 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:44,373 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:44,373 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:44,374 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:44,374 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:44,374 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:44,374 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:44,374 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:44,374 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:44,374 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:44,374 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:44,374 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:44,375 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:44,375 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:44,375 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:44,375 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:44,375 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:44,375 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:44,390 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:44,415 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:44,415 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:44,415 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:44,415 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:44,415 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:44,415 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:44,415 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:44,415 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:44,416 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:44,416 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:44,416 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:44,416 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:44,416 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:44,416 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:44,416 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:44,416 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:44,416 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:44,416 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:44,416 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:44,416 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:44,416 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:44,434 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,159 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-06-30 01:47:50,226 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,227 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,227 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,227 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,227 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,227 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,227 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,228 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,228 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,228 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,228 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,228 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,228 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,228 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,228 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,228 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,228 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,228 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,228 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,229 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,229 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,246 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,270 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,271 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,271 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,271 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,271 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,271 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,271 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,271 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,271 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,271 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,271 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,271 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,272 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,272 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,272 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,272 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,272 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,272 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,272 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,272 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,272 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,288 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,390 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,391 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,391 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,391 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,391 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,391 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,391 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,391 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,391 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,391 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,391 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,391 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,391 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,391 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,392 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,392 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,392 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,392 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,392 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,392 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,392 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,401 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,419 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,419 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,419 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,419 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,419 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,419 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,419 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,419 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,419 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,419 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,419 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,419 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,419 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,419 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,419 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,419 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,419 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,419 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,419 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,420 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,420 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:47:50,430 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:48:04,676 [INFO] Gpio:277 - dependency for GPIO [ADC1, RCC]
+2025-06-30 01:48:25,053 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 646941072 Bytes (953155584)
+2025-06-30 01:48:27,569 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 751798672 Bytes (953155584)
+2025-06-30 01:48:28,477 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 295061448 Bytes (953155584)
+2025-06-30 01:48:28,983 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2025-06-30 01:48:28,983 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: ADC
+2025-06-30 01:48:28,983 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-06-30 01:48:28,983 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-06-30 01:48:28,984 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-06-30 01:48:28,984 [INFO] CodeGenerator:882 - code generatio: config db path: /opt/st/stm32cubeide_1.18.1/plugins/com.st.stm32cube.common.mx_6.14.1.202504091515//db/
+2025-06-30 01:48:29,307 [INFO] CodeEngine:263 - oldGeneratedFile, /home/aaron/STM32CubeIDE/workspace_1.18.1/air_piston/MXTmpFiles/license.tmp_save
+2025-06-30 01:48:29,479 [INFO] CodeEngine:287 - Generated code: /home/aaron/STM32CubeIDE/workspace_1.18.1/air_piston/MXTmpFiles/license.tmp
+2025-06-30 01:48:29,540 [INFO] CodeEngine:263 - oldGeneratedFile, /home/aaron/STM32CubeIDE/workspace_1.18.1/air_piston/MXTmpFiles/gpio.tmp_save
+2025-06-30 01:48:29,623 [INFO] CodeEngine:287 - Generated code: /home/aaron/STM32CubeIDE/workspace_1.18.1/air_piston/MXTmpFiles/gpio.tmp
+2025-06-30 01:48:29,758 [INFO] CodeEngine:263 - oldGeneratedFile, /home/aaron/STM32CubeIDE/workspace_1.18.1/air_piston/Core/Src/stm32g4xx_it.c_save
+2025-06-30 01:48:29,983 [INFO] CodeEngine:287 - Generated code: /home/aaron/STM32CubeIDE/workspace_1.18.1/air_piston/Core/Src/stm32g4xx_it.c
+2025-06-30 01:48:29,985 [INFO] CodeEngine:263 - oldGeneratedFile, /home/aaron/STM32CubeIDE/workspace_1.18.1/air_piston/Core/Inc/stm32g4xx_it.h_save
+2025-06-30 01:48:30,042 [INFO] CodeEngine:287 - Generated code: /home/aaron/STM32CubeIDE/workspace_1.18.1/air_piston/Core/Inc/stm32g4xx_it.h
+2025-06-30 01:48:30,046 [INFO] CodeEngine:263 - oldGeneratedFile, /home/aaron/STM32CubeIDE/workspace_1.18.1/air_piston/Core/Src/stm32g4xx_hal_msp.c_save
+2025-06-30 01:48:30,161 [INFO] CodeEngine:287 - Generated code: /home/aaron/STM32CubeIDE/workspace_1.18.1/air_piston/Core/Src/stm32g4xx_hal_msp.c
+2025-06-30 01:48:30,162 [INFO] CodeEngine:263 - oldGeneratedFile, /home/aaron/STM32CubeIDE/workspace_1.18.1/air_piston/MXTmpFiles/system.tmp_save
+2025-06-30 01:48:30,213 [INFO] CodeEngine:287 - Generated code: /home/aaron/STM32CubeIDE/workspace_1.18.1/air_piston/MXTmpFiles/system.tmp
+2025-06-30 01:48:30,217 [INFO] CodeEngine:319 - oldGeneratedFile, /home/aaron/STM32CubeIDE/workspace_1.18.1/air_piston/Core/Inc/stm32g4xx_hal_conf.h_save
+2025-06-30 01:48:30,274 [INFO] CodeEngine:343 - Generated code: /home/aaron/STM32CubeIDE/workspace_1.18.1/air_piston/Core/Inc/stm32g4xx_hal_conf.h
+2025-06-30 01:48:30,295 [WARN] IPConfigManager:3217 - Warning: the RefConfig RCC_CommonPeriphClockConfig is not available in your config.xml file
+2025-06-30 01:48:30,299 [INFO] CodeEngine:263 - oldGeneratedFile, /home/aaron/STM32CubeIDE/workspace_1.18.1/air_piston/Core/Inc/main.h_save
+2025-06-30 01:48:30,387 [INFO] CodeEngine:287 - Generated code: /home/aaron/STM32CubeIDE/workspace_1.18.1/air_piston/Core/Inc/main.h
+2025-06-30 01:48:30,389 [INFO] CodeEngine:263 - oldGeneratedFile, /home/aaron/STM32CubeIDE/workspace_1.18.1/air_piston/Core/Src/main.c_save
+2025-06-30 01:48:30,487 [INFO] CodeEngine:287 - Generated code: /home/aaron/STM32CubeIDE/workspace_1.18.1/air_piston/Core/Src/main.c
+2025-06-30 01:48:31,120 [INFO] ProjectBuilder:3324 - Time for Copy HAL[1] : 69mS.
+2025-06-30 01:48:31,120 [INFO] ProjectBuilder:4912 - Project Generator version: 4.6.0.1-B1
+2025-06-30 01:48:31,223 [INFO] ConfigFileManager:1590 - The Die is : DIE468
+2025-06-30 01:48:32,254 [INFO] ProjectBuilder:5191 - Time for Generating toolchain IDE Files: 1134mS.
+2025-06-30 01:48:32,255 [INFO] ProjectBuilder:3181 - Time for Copy CMSIS : 1mS.
+2025-06-30 01:48:32,255 [INFO] ProjectBuilder:3181 - Time for Copy CMSIS : 0mS.
+2025-06-30 01:49:43,372 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:49:43,374 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:49:43,374 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:49:43,375 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:49:43,376 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:49:43,377 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:49:43,377 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:49:43,378 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:49:43,379 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:49:43,379 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:49:43,380 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:49:43,380 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:49:43,381 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:49:43,381 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:49:43,382 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:49:43,382 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:49:43,382 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:49:43,383 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:49:43,383 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:49:43,383 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:49:43,384 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:49:43,446 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:49:43,515 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:49:43,515 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:49:43,515 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:49:43,515 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:49:43,515 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:49:43,515 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:49:43,515 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:49:43,515 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:49:43,516 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:49:43,516 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:49:43,516 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:49:43,516 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:49:43,516 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:49:43,516 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:49:43,516 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:49:43,516 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:49:43,516 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:49:43,516 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:49:43,516 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:49:43,516 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:49:43,516 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:49:43,533 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 01:51:18,747 [INFO] WebApp:194 - Connection lost
+2025-06-30 01:51:19,012 [INFO] WebApp:191 - Connection restablished
+2025-06-30 01:54:56,110 [INFO] WebApp:194 - Connection lost
+2025-06-30 01:54:56,387 [INFO] WebApp:191 - Connection restablished
+2025-06-30 01:56:54,025 [INFO] WebApp:194 - Connection lost
+2025-06-30 01:56:54,294 [INFO] WebApp:191 - Connection restablished
+2025-06-30 01:57:26,268 [INFO] WebApp:194 - Connection lost
+2025-06-30 01:57:26,844 [INFO] WebApp:191 - Connection restablished
+2025-06-30 02:04:37,423 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 02:04:37,423 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 02:04:37,423 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 02:04:37,424 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 02:04:37,424 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 02:04:37,424 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 02:04:37,424 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 02:04:37,425 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 02:04:37,425 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 02:04:37,425 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 02:04:37,425 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 02:04:37,426 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 02:04:37,426 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 02:04:37,426 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 02:04:37,426 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 02:04:37,427 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 02:04:37,427 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 02:04:37,427 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 02:04:37,427 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 02:04:37,428 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 02:04:37,428 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 02:04:37,492 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 11:43:31,938 [INFO] WebApp:194 - Connection lost
+2025-06-30 11:43:35,406 [INFO] WebApp:191 - Connection restablished
+2025-06-30 11:43:40,177 [INFO] WebApp:194 - Connection lost
+2025-06-30 11:43:40,297 [INFO] WebApp:191 - Connection restablished
+2025-06-30 13:16:54,868 [INFO] WebApp:194 - Connection lost
+2025-06-30 13:16:56,396 [INFO] WebApp:191 - Connection restablished
+2025-06-30 13:20:15,810 [INFO] WebApp:194 - Connection lost
+2025-06-30 13:20:16,108 [INFO] WebApp:191 - Connection restablished
+2025-06-30 13:33:01,346 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-06-30 13:33:01,621 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:01,623 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:01,624 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:01,625 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:01,626 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:01,626 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:01,627 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:01,627 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:01,628 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:01,628 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:01,629 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:01,629 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:01,630 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:01,631 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:01,631 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:01,632 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:01,633 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:01,634 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:01,634 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:01,635 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:01,635 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:01,686 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:01,776 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:01,777 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:01,777 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:01,777 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:01,778 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:01,778 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:01,778 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:01,778 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:01,779 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:01,779 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:01,779 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:01,780 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:01,780 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:01,781 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:01,781 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:01,782 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:01,782 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:01,782 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:01,783 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:01,783 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:01,783 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:01,824 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:02,212 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:02,213 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:02,213 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:02,214 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:02,214 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:02,215 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:02,216 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:02,216 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:02,217 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:02,217 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:02,217 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:02,218 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:02,218 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:02,218 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:02,218 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:02,218 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:02,219 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:02,219 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:02,219 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:02,219 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:02,219 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:02,260 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:02,335 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:02,336 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:02,336 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:02,336 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:02,336 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:02,337 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:02,337 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:02,337 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:02,337 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:02,338 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:02,338 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:02,338 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:02,338 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:02,338 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:02,339 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:02,339 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:02,339 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:02,340 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:02,340 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:02,340 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:02,340 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:02,385 [INFO] ADCParametersView:116 -                Rank 1 : false
+2025-06-30 13:33:36,667 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 691820128 Bytes (864026624)
+2025-06-30 13:33:44,292 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 717512288 Bytes (864026624)
+2025-06-30 13:33:51,139 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 381736208 Bytes (864026624)
+2025-06-30 13:33:52,189 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2025-06-30 13:33:52,190 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: ADC
+2025-06-30 13:33:52,191 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-06-30 13:33:52,191 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-06-30 13:33:52,195 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-06-30 13:33:52,197 [INFO] CodeGenerator:882 - code generatio: config db path: /opt/st/stm32cubeide_1.18.1/plugins/com.st.stm32cube.common.mx_6.14.1.202504091515//db/
+2025-06-30 13:33:52,708 [INFO] CodeEngine:263 - oldGeneratedFile, /home/aaron/STM32CubeIDE/workspace_1.18.1/air_piston/MXTmpFiles/license.tmp_save
+2025-06-30 13:33:53,620 [INFO] CodeEngine:287 - Generated code: /home/aaron/STM32CubeIDE/workspace_1.18.1/air_piston/MXTmpFiles/license.tmp
+2025-06-30 13:33:53,910 [INFO] CodeEngine:263 - oldGeneratedFile, /home/aaron/STM32CubeIDE/workspace_1.18.1/air_piston/MXTmpFiles/gpio.tmp_save
+2025-06-30 13:33:54,308 [INFO] CodeEngine:287 - Generated code: /home/aaron/STM32CubeIDE/workspace_1.18.1/air_piston/MXTmpFiles/gpio.tmp
+2025-06-30 13:33:54,898 [INFO] CodeEngine:263 - oldGeneratedFile, /home/aaron/STM32CubeIDE/workspace_1.18.1/air_piston/Core/Src/stm32g4xx_it.c_save
+2025-06-30 13:33:56,254 [INFO] CodeEngine:287 - Generated code: /home/aaron/STM32CubeIDE/workspace_1.18.1/air_piston/Core/Src/stm32g4xx_it.c
+2025-06-30 13:33:56,257 [INFO] CodeEngine:263 - oldGeneratedFile, /home/aaron/STM32CubeIDE/workspace_1.18.1/air_piston/Core/Inc/stm32g4xx_it.h_save
+2025-06-30 13:33:56,480 [INFO] CodeEngine:287 - Generated code: /home/aaron/STM32CubeIDE/workspace_1.18.1/air_piston/Core/Inc/stm32g4xx_it.h
+2025-06-30 13:33:56,495 [INFO] CodeEngine:263 - oldGeneratedFile, /home/aaron/STM32CubeIDE/workspace_1.18.1/air_piston/Core/Src/stm32g4xx_hal_msp.c_save
+2025-06-30 13:33:57,012 [INFO] CodeEngine:287 - Generated code: /home/aaron/STM32CubeIDE/workspace_1.18.1/air_piston/Core/Src/stm32g4xx_hal_msp.c
+2025-06-30 13:33:57,016 [INFO] CodeEngine:263 - oldGeneratedFile, /home/aaron/STM32CubeIDE/workspace_1.18.1/air_piston/MXTmpFiles/system.tmp_save
+2025-06-30 13:33:57,240 [INFO] CodeEngine:287 - Generated code: /home/aaron/STM32CubeIDE/workspace_1.18.1/air_piston/MXTmpFiles/system.tmp
+2025-06-30 13:33:57,247 [INFO] CodeEngine:319 - oldGeneratedFile, /home/aaron/STM32CubeIDE/workspace_1.18.1/air_piston/Core/Inc/stm32g4xx_hal_conf.h_save
+2025-06-30 13:33:57,471 [INFO] CodeEngine:343 - Generated code: /home/aaron/STM32CubeIDE/workspace_1.18.1/air_piston/Core/Inc/stm32g4xx_hal_conf.h
+2025-06-30 13:33:57,541 [WARN] IPConfigManager:3217 - Warning: the RefConfig RCC_CommonPeriphClockConfig is not available in your config.xml file
+2025-06-30 13:33:57,553 [INFO] CodeEngine:263 - oldGeneratedFile, /home/aaron/STM32CubeIDE/workspace_1.18.1/air_piston/Core/Inc/main.h_save
+2025-06-30 13:33:57,943 [INFO] CodeEngine:287 - Generated code: /home/aaron/STM32CubeIDE/workspace_1.18.1/air_piston/Core/Inc/main.h
+2025-06-30 13:33:57,947 [INFO] CodeEngine:263 - oldGeneratedFile, /home/aaron/STM32CubeIDE/workspace_1.18.1/air_piston/Core/Src/main.c_save
+2025-06-30 13:33:58,521 [INFO] CodeEngine:287 - Generated code: /home/aaron/STM32CubeIDE/workspace_1.18.1/air_piston/Core/Src/main.c
+2025-06-30 13:33:59,588 [INFO] ProjectBuilder:3324 - Time for Copy HAL[1] : 150mS.
+2025-06-30 13:33:59,594 [INFO] ProjectBuilder:4912 - Project Generator version: 4.6.0.1-B1
+2025-06-30 13:33:59,998 [INFO] ConfigFileManager:1590 - The Die is : DIE468
+2025-06-30 13:34:02,648 [INFO] ProjectBuilder:5191 - Time for Generating toolchain IDE Files: 3054mS.
+2025-06-30 13:34:02,650 [INFO] ProjectBuilder:3181 - Time for Copy CMSIS : 0mS.
+2025-06-30 13:34:02,652 [INFO] ProjectBuilder:3181 - Time for Copy CMSIS : 0mS.
+2025-06-30 13:34:11,142 [INFO] WebApp:194 - Connection lost
+2025-06-30 13:34:13,772 [INFO] WebApp:191 - Connection restablished
+2025-06-30 13:34:30,696 [INFO] WebApp:194 - Connection lost
+2025-06-30 13:34:31,245 [INFO] WebApp:191 - Connection restablished
+2025-06-30 13:35:02,467 [INFO] WebApp:194 - Connection lost
+2025-06-30 13:35:03,057 [INFO] WebApp:191 - Connection restablished
+2025-06-30 13:35:35,205 [INFO] WebApp:194 - Connection lost
+2025-06-30 13:35:36,119 [INFO] WebApp:191 - Connection restablished
+2025-06-30 13:36:38,536 [INFO] WebApp:194 - Connection lost
+2025-06-30 13:36:44,477 [INFO] WebApp:191 - Connection restablished
+2025-06-30 13:37:15,208 [INFO] WebApp:194 - Connection lost
+2025-06-30 13:37:15,820 [INFO] WebApp:191 - Connection restablished
+2025-06-30 13:39:23,701 [INFO] WebApp:194 - Connection lost
+2025-06-30 13:39:24,282 [INFO] WebApp:191 - Connection restablished
+2025-06-30 13:39:56,170 [INFO] WebApp:194 - Connection lost
+2025-06-30 13:39:56,787 [INFO] WebApp:191 - Connection restablished
+2025-06-30 13:42:53,010 [INFO] Gpio:277 - dependency for GPIO [ADC1, RCC]
+2025-06-30 13:45:46,893 [INFO] WebApp:194 - Connection lost
+2025-06-30 13:45:47,454 [INFO] WebApp:191 - Connection restablished
+2025-06-30 13:50:05,260 [INFO] WebApp:194 - Connection lost
+2025-06-30 13:50:05,897 [INFO] WebApp:191 - Connection restablished
+2025-06-30 13:51:08,870 [INFO] WebApp:194 - Connection lost
+2025-06-30 13:51:09,442 [INFO] WebApp:191 - Connection restablished
+2025-06-30 13:54:54,596 [INFO] WebApp:194 - Connection lost
+2025-06-30 13:54:55,163 [INFO] WebApp:191 - Connection restablished
+2025-06-30 13:55:26,109 [INFO] WebApp:194 - Connection lost
+2025-06-30 13:55:26,613 [INFO] WebApp:191 - Connection restablished
+2025-06-30 14:00:27,463 [INFO] WebApp:194 - Connection lost
+2025-06-30 14:00:28,018 [INFO] WebApp:191 - Connection restablished
+2025-06-30 14:26:08,626 [INFO] WebApp:194 - Connection lost
+2025-06-30 14:26:08,907 [INFO] WebApp:191 - Connection restablished
+2025-06-30 14:27:24,477 [INFO] WebApp:194 - Connection lost
+2025-06-30 14:27:24,805 [INFO] WebApp:191 - Connection restablished
+2025-06-30 14:34:44,402 [INFO] WebApp:194 - Connection lost
+2025-06-30 14:34:44,674 [INFO] WebApp:191 - Connection restablished
+2025-06-30 14:37:44,219 [INFO] WebApp:194 - Connection lost
+2025-06-30 14:37:44,778 [INFO] WebApp:191 - Connection restablished
+2025-06-30 14:38:15,910 [INFO] WebApp:194 - Connection lost
+2025-06-30 14:38:16,487 [INFO] WebApp:191 - Connection restablished
+2025-06-30 14:39:24,590 [INFO] Gpio:277 - dependency for GPIO [ADC1, RCC]
+2025-06-30 14:40:07,813 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 476252896 Bytes (864026624)
+2025-06-30 14:40:10,233 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 502410488 Bytes (864026624)
+2025-06-30 14:40:11,258 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 571616496 Bytes (864026624)
+2025-06-30 14:40:12,057 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2025-06-30 14:40:12,057 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: ADC
+2025-06-30 14:40:12,057 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-06-30 14:40:12,057 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-06-30 14:40:12,058 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-06-30 14:40:12,059 [INFO] CodeGenerator:882 - code generatio: config db path: /opt/st/stm32cubeide_1.18.1/plugins/com.st.stm32cube.common.mx_6.14.1.202504091515//db/
+2025-06-30 14:40:12,246 [INFO] CodeEngine:263 - oldGeneratedFile, /home/aaron/STM32CubeIDE/workspace_1.18.1/air_piston/MXTmpFiles/license.tmp_save
+2025-06-30 14:40:12,549 [INFO] CodeEngine:287 - Generated code: /home/aaron/STM32CubeIDE/workspace_1.18.1/air_piston/MXTmpFiles/license.tmp
+2025-06-30 14:40:12,674 [INFO] CodeEngine:263 - oldGeneratedFile, /home/aaron/STM32CubeIDE/workspace_1.18.1/air_piston/MXTmpFiles/gpio.tmp_save
+2025-06-30 14:40:12,865 [INFO] CodeEngine:287 - Generated code: /home/aaron/STM32CubeIDE/workspace_1.18.1/air_piston/MXTmpFiles/gpio.tmp
+2025-06-30 14:40:13,134 [INFO] CodeEngine:263 - oldGeneratedFile, /home/aaron/STM32CubeIDE/workspace_1.18.1/air_piston/Core/Src/stm32g4xx_it.c_save
+2025-06-30 14:40:13,458 [INFO] CodeEngine:287 - Generated code: /home/aaron/STM32CubeIDE/workspace_1.18.1/air_piston/Core/Src/stm32g4xx_it.c
+2025-06-30 14:40:13,461 [INFO] CodeEngine:263 - oldGeneratedFile, /home/aaron/STM32CubeIDE/workspace_1.18.1/air_piston/Core/Inc/stm32g4xx_it.h_save
+2025-06-30 14:40:13,541 [INFO] CodeEngine:287 - Generated code: /home/aaron/STM32CubeIDE/workspace_1.18.1/air_piston/Core/Inc/stm32g4xx_it.h
+2025-06-30 14:40:13,545 [INFO] CodeEngine:263 - oldGeneratedFile, /home/aaron/STM32CubeIDE/workspace_1.18.1/air_piston/Core/Src/stm32g4xx_hal_msp.c_save
+2025-06-30 14:40:13,682 [INFO] CodeEngine:287 - Generated code: /home/aaron/STM32CubeIDE/workspace_1.18.1/air_piston/Core/Src/stm32g4xx_hal_msp.c
+2025-06-30 14:40:13,683 [INFO] CodeEngine:263 - oldGeneratedFile, /home/aaron/STM32CubeIDE/workspace_1.18.1/air_piston/MXTmpFiles/system.tmp_save
+2025-06-30 14:40:13,781 [INFO] CodeEngine:287 - Generated code: /home/aaron/STM32CubeIDE/workspace_1.18.1/air_piston/MXTmpFiles/system.tmp
+2025-06-30 14:40:13,785 [INFO] CodeEngine:319 - oldGeneratedFile, /home/aaron/STM32CubeIDE/workspace_1.18.1/air_piston/Core/Inc/stm32g4xx_hal_conf.h_save
+2025-06-30 14:40:13,890 [INFO] CodeEngine:343 - Generated code: /home/aaron/STM32CubeIDE/workspace_1.18.1/air_piston/Core/Inc/stm32g4xx_hal_conf.h
+2025-06-30 14:40:13,928 [WARN] IPConfigManager:3217 - Warning: the RefConfig RCC_CommonPeriphClockConfig is not available in your config.xml file
+2025-06-30 14:40:13,931 [INFO] CodeEngine:263 - oldGeneratedFile, /home/aaron/STM32CubeIDE/workspace_1.18.1/air_piston/Core/Inc/main.h_save
+2025-06-30 14:40:14,071 [INFO] CodeEngine:287 - Generated code: /home/aaron/STM32CubeIDE/workspace_1.18.1/air_piston/Core/Inc/main.h
+2025-06-30 14:40:14,074 [INFO] CodeEngine:263 - oldGeneratedFile, /home/aaron/STM32CubeIDE/workspace_1.18.1/air_piston/Core/Src/main.c_save
+2025-06-30 14:40:14,255 [INFO] CodeEngine:287 - Generated code: /home/aaron/STM32CubeIDE/workspace_1.18.1/air_piston/Core/Src/main.c
+2025-06-30 14:40:14,571 [INFO] ProjectBuilder:3324 - Time for Copy HAL[1] : 37mS.
+2025-06-30 14:40:14,573 [INFO] ProjectBuilder:4912 - Project Generator version: 4.6.0.1-B1
+2025-06-30 14:40:14,689 [INFO] ConfigFileManager:1590 - The Die is : DIE468
+2025-06-30 14:40:16,106 [INFO] ProjectBuilder:5191 - Time for Generating toolchain IDE Files: 1534mS.
+2025-06-30 14:40:16,107 [INFO] ProjectBuilder:3181 - Time for Copy CMSIS : 1mS.
+2025-06-30 14:40:16,107 [INFO] ProjectBuilder:3181 - Time for Copy CMSIS : 0mS.
+2025-06-30 14:40:25,615 [INFO] WebApp:194 - Connection lost
+2025-06-30 14:40:26,236 [INFO] WebApp:191 - Connection restablished
+2025-06-30 14:41:29,480 [INFO] WebApp:194 - Connection lost
+2025-06-30 14:41:30,117 [INFO] WebApp:191 - Connection restablished
+2025-06-30 14:45:12,456 [INFO] WebApp:194 - Connection lost
+2025-06-30 14:45:13,019 [INFO] WebApp:191 - Connection restablished
+2025-06-30 14:45:15,420 [INFO] WebApp:194 - Connection lost
+2025-06-30 14:45:15,612 [INFO] WebApp:191 - Connection restablished
+2025-06-30 14:45:47,216 [INFO] WebApp:194 - Connection lost
+2025-06-30 14:45:47,822 [INFO] WebApp:191 - Connection restablished
+2025-06-30 15:06:14,423 [INFO] WebApp:194 - Connection lost
+2025-06-30 15:06:18,514 [INFO] WebApp:191 - Connection restablished
+2025-06-30 15:06:49,340 [INFO] WebApp:194 - Connection lost
+2025-06-30 15:06:49,913 [INFO] WebApp:191 - Connection restablished
+2025-06-30 15:07:54,308 [INFO] WebApp:194 - Connection lost
+2025-06-30 15:07:54,950 [INFO] WebApp:191 - Connection restablished
+2025-06-30 15:08:26,321 [INFO] WebApp:194 - Connection lost
+2025-06-30 15:08:26,947 [INFO] WebApp:191 - Connection restablished
+2025-06-30 15:08:59,976 [INFO] WebApp:194 - Connection lost
+2025-06-30 15:09:00,539 [INFO] WebApp:191 - Connection restablished
+2025-06-30 15:11:41,032 [INFO] WebApp:194 - Connection lost
+2025-06-30 15:11:41,639 [INFO] WebApp:191 - Connection restablished
+2025-06-30 15:12:44,659 [INFO] WebApp:194 - Connection lost
+2025-06-30 15:12:45,187 [INFO] WebApp:191 - Connection restablished
+2025-06-30 15:13:16,563 [INFO] WebApp:194 - Connection lost
+2025-06-30 15:13:17,177 [INFO] WebApp:191 - Connection restablished
+2025-06-30 15:13:19,770 [INFO] WebApp:194 - Connection lost
+2025-06-30 15:13:20,051 [INFO] WebApp:191 - Connection restablished
+2025-06-30 15:16:00,246 [INFO] WebApp:194 - Connection lost
+2025-06-30 15:16:00,819 [INFO] WebApp:191 - Connection restablished
+2025-06-30 15:16:35,450 [INFO] WebApp:194 - Connection lost
+2025-06-30 15:16:35,951 [INFO] WebApp:191 - Connection restablished
+2025-06-30 15:16:49,212 [INFO] WebApp:194 - Connection lost
+2025-06-30 15:16:49,511 [INFO] WebApp:191 - Connection restablished
+2025-06-30 15:17:21,449 [INFO] WebApp:194 - Connection lost
+2025-06-30 15:17:21,975 [INFO] WebApp:191 - Connection restablished
+2025-06-30 15:17:52,639 [INFO] WebApp:194 - Connection lost
+2025-06-30 15:17:53,190 [INFO] WebApp:191 - Connection restablished
+2025-06-30 16:19:10,158 [INFO] WebApp:194 - Connection lost
+2025-06-30 16:19:10,387 [INFO] WebApp:191 - Connection restablished
+2025-06-30 16:19:18,305 [INFO] WebApp:194 - Connection lost
+2025-06-30 16:19:18,479 [INFO] WebApp:191 - Connection restablished
+2025-06-30 16:19:20,438 [INFO] WebApp:194 - Connection lost
+2025-06-30 16:19:20,688 [INFO] WebApp:191 - Connection restablished
+2025-06-30 16:20:24,467 [INFO] WebApp:194 - Connection lost
+2025-06-30 16:20:24,764 [INFO] WebApp:191 - Connection restablished
+2025-06-30 16:20:59,120 [INFO] WebApp:194 - Connection lost
+2025-06-30 16:20:59,752 [INFO] WebApp:191 - Connection restablished
+2025-06-30 16:28:46,236 [INFO] WebApp:194 - Connection lost
+2025-06-30 16:28:46,546 [INFO] WebApp:191 - Connection restablished
+2025-06-30 16:29:21,606 [INFO] WebApp:194 - Connection lost
+2025-06-30 16:29:22,227 [INFO] WebApp:191 - Connection restablished
+2025-06-30 16:30:25,163 [INFO] WebApp:194 - Connection lost
+2025-06-30 16:30:26,810 [INFO] WebApp:191 - Connection restablished
+2025-06-30 16:30:57,592 [INFO] WebApp:194 - Connection lost
+2025-06-30 16:30:59,050 [INFO] WebApp:191 - Connection restablished
+2025-06-30 16:36:32,431 [INFO] WebApp:194 - Connection lost
+2025-06-30 16:36:32,705 [INFO] WebApp:191 - Connection restablished
+2025-06-30 16:38:38,611 [INFO] WebApp:194 - Connection lost
+2025-06-30 16:38:38,941 [INFO] WebApp:191 - Connection restablished
+2025-06-30 16:40:48,997 [INFO] WebApp:194 - Connection lost
+2025-06-30 16:40:49,567 [INFO] WebApp:191 - Connection restablished
+2025-06-30 16:41:21,471 [INFO] WebApp:194 - Connection lost
+2025-06-30 16:41:22,023 [INFO] WebApp:191 - Connection restablished
+2025-06-30 16:44:32,819 [INFO] WebApp:194 - Connection lost
+2025-06-30 16:44:33,422 [INFO] WebApp:191 - Connection restablished
+2025-06-30 16:45:07,219 [INFO] WebApp:194 - Connection lost
+2025-06-30 16:45:07,817 [INFO] WebApp:191 - Connection restablished
+2025-06-30 16:45:39,495 [INFO] WebApp:194 - Connection lost
+2025-06-30 16:45:40,022 [INFO] WebApp:191 - Connection restablished
+2025-06-30 16:46:11,783 [INFO] WebApp:194 - Connection lost
+2025-06-30 16:46:12,378 [INFO] WebApp:191 - Connection restablished
+2025-06-30 16:46:25,818 [INFO] WebApp:194 - Connection lost
+2025-06-30 16:46:26,060 [INFO] WebApp:191 - Connection restablished
+2025-06-30 16:47:31,375 [INFO] WebApp:194 - Connection lost
+2025-06-30 16:47:31,948 [INFO] WebApp:191 - Connection restablished
+2025-06-30 17:10:31,617 [INFO] WebApp:194 - Connection lost
+2025-06-30 17:10:32,179 [INFO] WebApp:191 - Connection restablished
+2025-06-30 17:11:42,683 [INFO] WebApp:194 - Connection lost
+2025-06-30 17:11:43,374 [INFO] WebApp:191 - Connection restablished
+2025-06-30 17:12:59,492 [INFO] WebApp:194 - Connection lost
+2025-06-30 17:13:00,078 [INFO] WebApp:191 - Connection restablished
+2025-06-30 17:15:32,049 [INFO] WebApp:194 - Connection lost
+2025-06-30 17:15:32,711 [INFO] WebApp:191 - Connection restablished
+2025-06-30 17:16:27,338 [INFO] WebApp:194 - Connection lost
+2025-06-30 17:16:27,914 [INFO] WebApp:191 - Connection restablished
+2025-06-30 17:16:59,557 [INFO] WebApp:194 - Connection lost
+2025-06-30 17:17:00,165 [INFO] WebApp:191 - Connection restablished
+2025-06-30 17:17:31,816 [INFO] WebApp:194 - Connection lost
+2025-06-30 17:17:32,378 [INFO] WebApp:191 - Connection restablished
+2025-06-30 17:18:04,021 [INFO] WebApp:194 - Connection lost
+2025-06-30 17:18:04,551 [INFO] WebApp:191 - Connection restablished
+2025-06-30 17:23:15,732 [INFO] WebApp:194 - Connection lost
+2025-06-30 17:23:16,277 [INFO] WebApp:191 - Connection restablished
+2025-06-30 17:23:49,491 [INFO] WebApp:194 - Connection lost
+2025-06-30 17:23:50,084 [INFO] WebApp:191 - Connection restablished
+2025-06-30 17:26:31,055 [INFO] WebApp:194 - Connection lost
+2025-06-30 17:26:31,676 [INFO] WebApp:191 - Connection restablished
+2025-06-30 17:27:33,064 [INFO] WebApp:194 - Connection lost
+2025-06-30 17:27:33,716 [INFO] WebApp:191 - Connection restablished
+2025-06-30 17:27:56,486 [INFO] WebApp:194 - Connection lost
+2025-06-30 17:27:57,057 [INFO] WebApp:191 - Connection restablished
+2025-06-30 17:32:59,709 [INFO] WebApp:194 - Connection lost
+2025-06-30 17:33:00,347 [INFO] WebApp:191 - Connection restablished
+2025-06-30 17:37:16,968 [INFO] WebApp:194 - Connection lost
+2025-06-30 17:37:17,485 [INFO] WebApp:191 - Connection restablished
+2025-06-30 17:37:48,917 [INFO] WebApp:194 - Connection lost
+2025-06-30 17:37:49,493 [INFO] WebApp:191 - Connection restablished
+2025-06-30 17:38:20,383 [INFO] WebApp:194 - Connection lost
+2025-06-30 17:38:20,930 [INFO] WebApp:191 - Connection restablished
+2025-06-30 17:49:16,445 [INFO] WebApp:194 - Connection lost
+2025-06-30 17:49:17,053 [INFO] WebApp:191 - Connection restablished
+2025-06-30 17:53:04,158 [INFO] WebApp:194 - Connection lost
+2025-06-30 17:53:04,730 [INFO] WebApp:191 - Connection restablished
+2025-06-30 17:57:54,117 [INFO] WebApp:194 - Connection lost
+2025-06-30 17:57:54,729 [INFO] WebApp:191 - Connection restablished
+2025-06-30 17:58:57,945 [INFO] WebApp:194 - Connection lost
+2025-06-30 17:58:58,493 [INFO] WebApp:191 - Connection restablished
+2025-06-30 18:26:26,456 [INFO] WebApp:194 - Connection lost
+2025-06-30 18:26:27,090 [INFO] WebApp:191 - Connection restablished
+2025-06-30 18:31:30,306 [INFO] WebApp:194 - Connection lost
+2025-06-30 18:31:30,886 [INFO] WebApp:191 - Connection restablished
+2025-06-30 18:51:40,430 [INFO] WebApp:194 - Connection lost
+2025-06-30 18:51:40,986 [INFO] WebApp:191 - Connection restablished
+2025-06-30 18:52:14,122 [INFO] WebApp:194 - Connection lost
+2025-06-30 18:52:14,647 [INFO] WebApp:191 - Connection restablished
+2025-06-30 19:12:26,143 [INFO] WebApp:194 - Connection lost
+2025-06-30 19:12:26,691 [INFO] WebApp:191 - Connection restablished
+2025-06-30 19:14:02,397 [INFO] WebApp:194 - Connection lost
+2025-06-30 19:14:02,939 [INFO] WebApp:191 - Connection restablished
+2025-06-30 19:14:36,246 [INFO] WebApp:194 - Connection lost
+2025-06-30 19:14:36,847 [INFO] WebApp:191 - Connection restablished
+2025-06-30 19:27:06,513 [INFO] WebApp:194 - Connection lost
+2025-06-30 19:27:06,645 [INFO] WebApp:191 - Connection restablished
+2025-06-30 21:36:44,966 [INFO] WebApp:194 - Connection lost
+2025-06-30 21:36:50,165 [INFO] WebApp:191 - Connection restablished
+2025-06-30 21:36:56,791 [INFO] WebApp:194 - Connection lost
+2025-06-30 21:36:56,916 [INFO] WebApp:191 - Connection restablished
+2025-06-30 23:20:17,863 [INFO] WebApp:194 - Connection lost
+2025-06-30 23:20:25,458 [INFO] WebApp:191 - Connection restablished
